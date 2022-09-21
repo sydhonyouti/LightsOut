@@ -1,0 +1,12 @@
+C:\Users\sydho\source\repos\LightsOutWinForms\LightsOutWinForms\bin\Debug\LightsOutWinForms.exe.config
+C:\Users\sydho\source\repos\LightsOutWinForms\LightsOutWinForms\bin\Debug\LightsOutWinForms.exe
+C:\Users\sydho\source\repos\LightsOutWinForms\LightsOutWinForms\bin\Debug\LightsOutWinForms.pdb
+C:\Users\sydho\source\repos\LightsOutWinForms\LightsOutWinForms\obj\Debug\LightsOutWinForms.csproj.AssemblyReference.cache
+C:\Users\sydho\source\repos\LightsOutWinForms\LightsOutWinForms\obj\Debug\LightsOutWinForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\sydho\source\repos\LightsOutWinForms\LightsOutWinForms\obj\Debug\LightsOutWinForms.MainForm.resources
+C:\Users\sydho\source\repos\LightsOutWinForms\LightsOutWinForms\obj\Debug\LightsOutWinForms.Properties.Resources.resources
+C:\Users\sydho\source\repos\LightsOutWinForms\LightsOutWinForms\obj\Debug\LightsOutWinForms.csproj.GenerateResource.cache
+C:\Users\sydho\source\repos\LightsOutWinForms\LightsOutWinForms\obj\Debug\LightsOutWinForms.csproj.CoreCompileInputs.cache
+C:\Users\sydho\source\repos\LightsOutWinForms\LightsOutWinForms\obj\Debug\LightsOutWinForms.exe
+C:\Users\sydho\source\repos\LightsOutWinForms\LightsOutWinForms\obj\Debug\LightsOutWinForms.pdb
+C:\Users\sydho\source\repos\LightsOutWinForms\LightsOutWinForms\obj\Debug\LightsOutWinForms.AboutForm.resources
